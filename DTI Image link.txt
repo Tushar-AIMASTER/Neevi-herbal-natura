@@ -1,0 +1,12 @@
+DTI Image link 
+
+  /* background: url("https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat;*/
+
+
+
+https://images.pexels.com/photos/1382393/pexels-photo-1382393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+
+https://images.pexels.com/photos/3770703/pexels-photo-3770703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+
+https://wallpaperaccess.com/full/1611596.jpg
+

@@ -1,0 +1,2223 @@
+/* The Day Beauty (Green) */
+
+position: relative;
+width: 1440px;
+height: 2641px;
+
+background: #FFFFFF;
+
+
+/* Hero Section */
+
+position: absolute;
+width: 1791px;
+height: 798px;
+left: 104px;
+top: -1px;
+
+
+
+/* 10967 1 */
+
+position: absolute;
+width: 1197px;
+height: 798px;
+left: 698px;
+top: -1px;
+
+background: url(10967.jpg);
+
+
+/* Hero Image */
+
+position: absolute;
+visibility: hidden;
+width: 361px;
+height: 168px;
+left: 766px;
+top: 490px;
+
+background: #FFFFFF;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 467px;
+height: 150.09px;
+left: 665px;
+top: 586px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 434px;
+height: 108px;
+left: 698px;
+top: 586px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 442.16px;
+height: 108.09px;
+left: 665px;
+top: 628px;
+
+background: linear-gradient(360deg, #059669 0.08%, #10B981 100%);
+
+
+/* Grand Opening */
+
+position: absolute;
+width: 117px;
+height: 22px;
+left: 665px;
+top: 597px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+color: #047857;
+
+
+
+/* All items are 25% Discount for New Member! */
+
+position: absolute;
+width: 287px;
+height: 18px;
+left: 820px;
+top: 599px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 140%;
+/* or 18px */
+
+color: #059669;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 326px;
+height: 80px;
+left: 723px;
+top: 642px;
+
+
+
+/* 20 : 10 : 05 */
+
+position: absolute;
+width: 321px;
+height: 69px;
+left: 723px;
+top: 642px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 49px;
+line-height: 140%;
+/* identical to box height, or 69px */
+
+color: #FFFFFF;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 324px;
+height: 21px;
+left: 725px;
+top: 701px;
+
+
+
+/* hours */
+
+position: absolute;
+width: 42px;
+height: 21px;
+left: 725px;
+top: 701px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 140%;
+/* identical to box height, or 21px */
+
+color: #FFFFFF;
+
+
+
+/* minutes */
+
+position: absolute;
+width: 60px;
+height: 21px;
+left: 860px;
+top: 701px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 140%;
+/* identical to box height, or 21px */
+
+color: #FFFFFF;
+
+
+
+/* seconds */
+
+position: absolute;
+width: 61px;
+height: 21px;
+left: 988px;
+top: 701px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 140%;
+/* identical to box height, or 21px */
+
+color: #FFFFFF;
+
+
+
+/* Be Beautiful You need time for Perfection */
+
+position: absolute;
+width: 519px;
+height: 240px;
+left: 104px;
+top: 208px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 900;
+font-size: 56px;
+line-height: 80px;
+/* or 143% */
+letter-spacing: 0.02em;
+
+color: #064E3B;
+
+
+
+/* Call to Action */
+
+position: absolute;
+visibility: hidden;
+width: 324px;
+height: 41px;
+left: 104px;
+top: 532px;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 127px;
+height: 25px;
+left: 104px;
+top: 548px;
+
+
+
+/* REGISTER */
+
+position: absolute;
+width: 88px;
+height: 25px;
+left: 104px;
+top: 548px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #064E3B;
+
+
+
+/* teenyicons:arrow-right-solid */
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 210px;
+top: 551px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+background: #064E3B;
+
+
+/* Group 5 */
+
+position: absolute;
+width: 112px;
+height: 25px;
+left: 316px;
+top: 548px;
+
+
+
+/* PRICING */
+
+position: absolute;
+width: 73px;
+height: 25px;
+left: 316px;
+top: 548px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #9EB5AF;
+
+
+
+/* teenyicons:arrow-right-solid */
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 407px;
+top: 550px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+background: #9EB5AF;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 324px;
+height: 0px;
+left: 104px;
+top: 532px;
+
+border: 2px solid #064E3B;
+
+
+/* CTA */
+
+position: absolute;
+width: 385px;
+height: 53px;
+left: 104px;
+top: 512px;
+
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px 28px;
+gap: 10px;
+
+position: absolute;
+width: 223px;
+height: 53px;
+left: 104px;
+top: 512px;
+
+background: linear-gradient(4.01deg, #059669 3.04%, #36DCA5 96.51%);
+
+
+/* Become a member */
+
+width: 167px;
+height: 25px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px 28px;
+gap: 10px;
+
+position: absolute;
+width: 154px;
+height: 53px;
+left: 335px;
+top: 512px;
+
+border: 1px solid #10B981;
+
+
+/* See pricing */
+
+width: 98px;
+height: 25px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #10B981;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Sugar Scrubs Section */
+
+position: absolute;
+width: 1438px;
+height: 668px;
+left: 104px;
+top: 1550px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1438px;
+height: 521px;
+left: 104px;
+top: 1697px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1364px;
+height: 451px;
+left: 178px;
+top: 1767px;
+
+background: linear-gradient(30.63deg, #059669 26.17%, #10B981 97.06%);
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 772px;
+height: 485px;
+left: 104px;
+top: 1697px;
+
+background: #ECFDF5;
+
+
+/* Group 27 */
+
+position: absolute;
+width: 504px;
+height: 332px;
+left: 177px;
+top: 1774px;
+
+
+
+/* Sugar Scrubs */
+
+position: absolute;
+width: 246px;
+height: 56px;
+left: 177px;
+top: 1818px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 140%;
+/* identical to box height, or 56px */
+
+color: #047857;
+
+
+
+/* Sugar scrubs brighten tired, dull-looking skin to promote healthy, smooth, and flawless skin. Sugar scrubs also fight skin aging in a natural way. */
+
+position: absolute;
+width: 504px;
+height: 81px;
+left: 177px;
+top: 1898px;
+
+font-family: 'Work Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* or 150% */
+
+color: #047857;
+
+
+
+/* Ingredients: brown sugar, coconut, jojoba, olive, almond, or grapeseed. */
+
+position: absolute;
+width: 477px;
+height: 54px;
+left: 177px;
+top: 1999px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* or 150% */
+
+color: #047857;
+
+
+
+/* Group 13 */
+
+position: absolute;
+width: 170px;
+height: 34px;
+left: 177px;
+top: 1774px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 170px;
+height: 34px;
+left: 177px;
+top: 1774px;
+
+background: #047857;
+
+
+/* Exclusive product */
+
+position: absolute;
+width: 140px;
+height: 22px;
+left: 190px;
+top: 1780px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+color: #ECFDF5;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 119px;
+height: 29px;
+left: 177px;
+top: 2077px;
+
+
+
+/* View product */
+
+position: absolute;
+width: 118px;
+height: 25px;
+left: 178px;
+top: 2077px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #047857;
+
+
+
+/* Line 3 */
+
+position: absolute;
+width: 119px;
+height: 0px;
+left: 177px;
+top: 2106px;
+
+border: 2px solid #047857;
+
+
+/* Group 28 */
+
+position: absolute;
+width: 504px;
+height: 332px;
+left: 177px;
+top: 1774px;
+
+
+
+/* Sugar Scrubs */
+
+position: absolute;
+width: 246px;
+height: 56px;
+left: 177px;
+top: 1818px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 140%;
+/* identical to box height, or 56px */
+
+color: #047857;
+
+
+
+/* Sugar scrubs brighten tired, dull-looking skin to promote healthy, smooth, and flawless skin. Sugar scrubs also fight skin aging in a natural way. */
+
+position: absolute;
+width: 504px;
+height: 81px;
+left: 177px;
+top: 1898px;
+
+font-family: 'Work Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* or 150% */
+
+color: #047857;
+
+
+
+/* Ingredients: brown sugar, coconut, jojoba, olive, almond, or grapeseed. */
+
+position: absolute;
+width: 477px;
+height: 54px;
+left: 177px;
+top: 1999px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* or 150% */
+
+color: #047857;
+
+
+
+/* Group 13 */
+
+position: absolute;
+width: 170px;
+height: 34px;
+left: 177px;
+top: 1774px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 170px;
+height: 34px;
+left: 177px;
+top: 1774px;
+
+background: #047857;
+
+
+/* Exclusive product */
+
+position: absolute;
+width: 140px;
+height: 22px;
+left: 192px;
+top: 1780px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+color: #ECFDF5;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 119px;
+height: 29px;
+left: 177px;
+top: 2077px;
+
+
+
+/* View product */
+
+position: absolute;
+width: 118px;
+height: 25px;
+left: 178px;
+top: 2077px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #047857;
+
+
+
+/* Line 3 */
+
+position: absolute;
+width: 119px;
+height: 0px;
+left: 177px;
+top: 2106px;
+
+border: 2px solid #047857;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 373px;
+height: 373px;
+left: 945px;
+top: 1774px;
+
+background: rgba(4, 120, 87, 0.64);
+filter: blur(100px);
+
+
+/* 18137_adobespark 1 */
+
+position: absolute;
+width: 1002px;
+height: 668px;
+left: 446px;
+top: 1550px;
+
+background: url(18137_adobespark.png);
+
+
+/* Group 28 */
+
+position: absolute;
+width: 117px;
+height: 36px;
+left: 104px;
+top: 56px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 44px;
+height: 33px;
+left: 104px;
+top: 58px;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+width: 44px;
+height: 33px;
+left: 104px;
+top: 58px;
+
+background: linear-gradient(28.58deg, #059669 0%, #10B981 100%);
+
+
+/* The Day Beauty */
+
+position: absolute;
+width: 70px;
+height: 36px;
+left: 151px;
+top: 56px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 18px;
+/* or 93% */
+letter-spacing: -0.04em;
+
+background: linear-gradient(28.58deg, #059669 0%, #10B981 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Footer */
+
+position: absolute;
+width: 1241px;
+height: 156px;
+left: 99px;
+top: 2418px;
+
+
+
+/* Footer */
+
+position: absolute;
+width: 1241px;
+height: 156px;
+left: 99px;
+top: 2418px;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 246px;
+height: 156px;
+left: 99px;
+top: 2418px;
+
+
+
+/* © 2021 All right reserved. */
+
+position: absolute;
+width: 246px;
+height: 50px;
+left: 99px;
+top: 2524px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #064E3B;
+
+
+
+/* Group 29 */
+
+position: absolute;
+width: 117px;
+height: 36px;
+left: 99px;
+top: 2418px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 44px;
+height: 33px;
+left: 99px;
+top: 2420px;
+
+
+
+/* Vector (Stroke) */
+
+position: absolute;
+width: 44px;
+height: 33px;
+left: 99px;
+top: 2420px;
+
+background: linear-gradient(28.58deg, #059669 0%, #10B981 100%);
+
+
+/* The Day Beauty */
+
+position: absolute;
+width: 70px;
+height: 36px;
+left: 146px;
+top: 2418px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 18px;
+/* or 93% */
+letter-spacing: -0.04em;
+
+background: linear-gradient(28.58deg, #059669 0%, #10B981 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 90px;
+height: 155px;
+left: 475px;
+top: 2419px;
+
+
+
+/* Healthline */
+
+position: absolute;
+width: 90px;
+height: 25px;
+left: 475px;
+top: 2467px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #064E3B;
+
+
+
+/* Articles */
+
+position: absolute;
+width: 76px;
+height: 28px;
+left: 475px;
+top: 2419px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* identical to box height, or 28px */
+
+color: #064E3B;
+
+
+
+/* News */
+
+position: absolute;
+width: 48px;
+height: 25px;
+left: 475px;
+top: 2508px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #064E3B;
+
+
+
+/* Promos */
+
+position: absolute;
+width: 67px;
+height: 25px;
+left: 475px;
+top: 2549px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #064E3B;
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 160px;
+height: 105px;
+left: 621px;
+top: 2419px;
+
+
+
+/* (0351) 2788 2331 */
+
+position: absolute;
+width: 128px;
+height: 22px;
+left: 653px;
+top: 2464px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+color: #064E3B;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 71px;
+height: 25px;
+left: 621px;
+top: 2419px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #064E3B;
+
+
+
+/* 0812 2000 9009 */
+
+position: absolute;
+width: 126px;
+height: 22px;
+left: 653px;
+top: 2502px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+color: #064E3B;
+
+
+
+/* feather:phone */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 621px;
+top: 2466px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.8%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.63%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.8%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.63%;
+
+border: 2px solid #064E3B;
+
+
+/* jam:whatsapp */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 621px;
+top: 2500px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.47%;
+right: 8.45%;
+top: 8.33%;
+bottom: 8.5%;
+
+background: #064E3B;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.08%;
+right: 27.65%;
+top: 29.7%;
+bottom: 30.35%;
+
+background: #064E3B;
+
+
+/* Group 16 */
+
+position: absolute;
+width: 74px;
+height: 155px;
+left: 345px;
+top: 2419px;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 74px;
+height: 155px;
+left: 345px;
+top: 2419px;
+
+
+
+/* Profile */
+
+position: absolute;
+width: 57px;
+height: 25px;
+left: 345px;
+top: 2467px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #064E3B;
+
+
+
+/* Services */
+
+position: absolute;
+width: 74px;
+height: 25px;
+left: 345px;
+top: 2508px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #064E3B;
+
+
+
+/* Pricing */
+
+position: absolute;
+width: 59px;
+height: 25px;
+left: 345px;
+top: 2549px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #064E3B;
+
+
+
+/* About */
+
+position: absolute;
+width: 59px;
+height: 28px;
+left: 345px;
+top: 2419px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* identical to box height, or 28px */
+
+color: #064E3B;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 301px;
+height: 101px;
+left: 1039px;
+top: 2419px;
+
+
+
+/* Get early promos */
+
+position: absolute;
+width: 152px;
+height: 25px;
+left: 1039px;
+top: 2419px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #064E3B;
+
+
+
+/* Group 20 */
+
+position: absolute;
+width: 301px;
+height: 29px;
+left: 1039px;
+top: 2491px;
+
+
+
+/* YOUR EMAIL */
+
+position: absolute;
+width: 86px;
+height: 20px;
+left: 1039px;
+top: 2491px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+
+color: #CFDAD7;
+
+
+
+/* Line 5 */
+
+position: absolute;
+width: 301px;
+height: 0px;
+left: 1039px;
+top: 2520px;
+
+border: 1.5px solid #064E3B;
+
+
+/* teenyicons:arrow-right-solid */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 1322px;
+top: 2491px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+background: #064E3B;
+
+
+/* Line 4 */
+
+position: absolute;
+visibility: hidden;
+width: 1241px;
+height: 0px;
+left: 99px;
+top: 2370px;
+
+border: 2px solid #F4F4F4;
+
+
+/* Group 30 */
+
+position: absolute;
+width: 1440px;
+height: 808px;
+left: 0px;
+top: 797px;
+
+
+
+/* Services Section */
+
+position: absolute;
+width: 1440px;
+height: 724px;
+left: 0px;
+top: 797px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 480px;
+height: 724px;
+left: 960px;
+top: 797px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 480px;
+height: 724px;
+left: 960px;
+top: 797px;
+
+background: linear-gradient(28.58deg, #059669 0%, #10B981 100%), #059669;
+
+
+/* Group 25 */
+
+position: absolute;
+width: 391px;
+height: 528px;
+left: 1005px;
+top: 895px;
+
+
+
+/* Image Container */
+
+position: absolute;
+width: 389px;
+height: 260.89px;
+left: 1005px;
+top: 1096px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 378.71px;
+height: 252.48px;
+left: 1005px;
+top: 1104.42px;
+
+background: #047857;
+
+
+/* image 1 */
+
+position: absolute;
+width: 378.71px;
+height: 251.54px;
+left: 1015.29px;
+top: 1096px;
+
+background: url(image);
+
+
+/* Title */
+
+position: absolute;
+width: 391px;
+height: 181px;
+left: 1005px;
+top: 895px;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 386px;
+height: 0px;
+left: 1005px;
+top: 1035px;
+
+border: 2px dashed #ECFDF5;
+
+
+/* Body Treatments with Scrubs */
+
+position: absolute;
+width: 346px;
+height: 108px;
+left: 1005px;
+top: 895px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* or 150% */
+letter-spacing: 0.02em;
+
+color: #ECFDF5;
+
+
+
+/* Swedish massage and deep tissue massage */
+
+position: absolute;
+visibility: hidden;
+width: 387px;
+height: 25px;
+left: 1008px;
+top: 948px;
+
+font-family: 'Work Sans';
+font-style: italic;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+
+/* SPA. 03 */
+
+position: absolute;
+width: 67px;
+height: 25px;
+left: 1329px;
+top: 1051px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #ECFDF5;
+
+
+
+/* Price label */
+
+position: absolute;
+width: 147px;
+height: 25px;
+left: 1005px;
+top: 1051px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 147px;
+height: 25px;
+left: 1005px;
+top: 1051px;
+
+background: #047857;
+border-radius: 20px;
+
+
+/* Rp. 650.000,00 */
+
+position: absolute;
+width: 132px;
+height: 25px;
+left: 1013px;
+top: 1051px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 219px;
+height: 34px;
+left: 1005px;
+top: 1389px;
+
+
+
+/* Select package */
+
+position: absolute;
+width: 179px;
+height: 34px;
+left: 1005px;
+top: 1389px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+color: #ECFDF5;
+
+
+
+/* teenyicons:arrow-right-solid */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 1196px;
+top: 1392px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+background: #ECFDF5;
+border: 1px solid #ECFDF5;
+
+
+/* Group 10 */
+
+position: absolute;
+width: 480px;
+height: 724px;
+left: 480px;
+top: 797px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 480px;
+height: 724px;
+left: 480px;
+top: 797px;
+
+background: linear-gradient(28.58deg, #059669 0%, #10B981 100%);
+
+
+/* Group 23 */
+
+position: absolute;
+width: 393px;
+height: 528px;
+left: 523px;
+top: 895px;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 393px;
+height: 528px;
+left: 523px;
+top: 895px;
+
+
+
+/* Image Container */
+
+position: absolute;
+width: 389px;
+height: 260.89px;
+left: 525px;
+top: 1096px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 378.71px;
+height: 252.48px;
+left: 525px;
+top: 1104.42px;
+
+background: #047857;
+
+
+/* image 1 */
+
+position: absolute;
+width: 378.71px;
+height: 251.54px;
+left: 535.29px;
+top: 1096px;
+
+background: url(image);
+
+
+/* Title */
+
+position: absolute;
+width: 391px;
+height: 181px;
+left: 525px;
+top: 895px;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 525px;
+top: 1035px;
+
+border: 2px dashed #ECFDF5;
+
+
+/* Facials Massage with Scrubs */
+
+position: absolute;
+width: 341px;
+height: 108px;
+left: 525px;
+top: 895px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* or 150% */
+letter-spacing: 0.02em;
+
+color: #ECFDF5;
+
+
+
+/* Swedish massage and deep tissue massage */
+
+position: absolute;
+visibility: hidden;
+width: 387px;
+height: 25px;
+left: 528px;
+top: 948px;
+
+font-family: 'Work Sans';
+font-style: italic;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+
+/* SPA. 02 */
+
+position: absolute;
+width: 67px;
+height: 25px;
+left: 849px;
+top: 1051px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #ECFDF5;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 219px;
+height: 34px;
+left: 523px;
+top: 1389px;
+
+
+
+/* Select package */
+
+position: absolute;
+width: 179px;
+height: 34px;
+left: 523px;
+top: 1389px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+color: #ECFDF5;
+
+
+
+/* teenyicons:arrow-right-solid */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 714px;
+top: 1392px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+background: #ECFDF5;
+border: 1px solid #ECFDF5;
+
+
+/* Price label */
+
+position: absolute;
+width: 147px;
+height: 25px;
+left: 523px;
+top: 1051px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 147px;
+height: 25px;
+left: 523px;
+top: 1051px;
+
+background: #047857;
+border-radius: 20px;
+
+
+/* Rp. 950.000,00 */
+
+position: absolute;
+width: 132px;
+height: 25px;
+left: 531px;
+top: 1051px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 480px;
+height: 724px;
+left: 0px;
+top: 797px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 480px;
+height: 724px;
+left: 0px;
+top: 797px;
+
+background: linear-gradient(28.58deg, #059669 0%, #10B981 100%);
+
+
+/* Group 22 */
+
+position: absolute;
+width: 390px;
+height: 528px;
+left: 45px;
+top: 895px;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 219px;
+height: 34px;
+left: 45px;
+top: 1389px;
+
+
+
+/* Select package */
+
+position: absolute;
+width: 179px;
+height: 34px;
+left: 45px;
+top: 1389px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:arrow-right-solid */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 236px;
+top: 1392px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 6.67%;
+right: 5.29%;
+top: 20.97%;
+bottom: 20.97%;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+
+/* Image Container */
+
+position: absolute;
+width: 389px;
+height: 260.89px;
+left: 45px;
+top: 1096px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 378.71px;
+height: 252.48px;
+left: 45px;
+top: 1104.42px;
+
+background: #047857;
+
+
+/* image 1 */
+
+position: absolute;
+width: 378.71px;
+height: 251.54px;
+left: 55.29px;
+top: 1096px;
+
+background: url(image);
+
+
+/* Title */
+
+position: absolute;
+width: 390px;
+height: 181px;
+left: 45px;
+top: 895px;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 386px;
+height: 0px;
+left: 49px;
+top: 1035px;
+
+border: 2px dashed #ECFDF5;
+
+
+/* Swedish Deep Tissue Massage */
+
+position: absolute;
+width: 336px;
+height: 108px;
+left: 45px;
+top: 895px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* or 150% */
+letter-spacing: 0.02em;
+
+color: #ECFDF5;
+
+
+
+/* Swedish massage and deep tissue massage */
+
+position: absolute;
+visibility: hidden;
+width: 387px;
+height: 25px;
+left: 48px;
+top: 925px;
+
+font-family: 'Work Sans';
+font-style: italic;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+
+/* SPA. 01 */
+
+position: absolute;
+width: 64px;
+height: 25px;
+left: 369px;
+top: 1051px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+
+/* Price label */
+
+position: absolute;
+width: 146px;
+height: 25px;
+left: 49px;
+top: 1051px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 146px;
+height: 25px;
+left: 49px;
+top: 1051px;
+
+background: #047857;
+border-radius: 20px;
+
+
+/* Rp. 550.000,00 */
+
+position: absolute;
+width: 131px;
+height: 25px;
+left: 57px;
+top: 1051px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+
+/* Group 26 */
+
+position: absolute;
+width: 228px;
+height: 60px;
+left: 606px;
+top: 1545px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 228px;
+height: 60px;
+left: 606px;
+top: 1545px;
+
+background: linear-gradient(238.08deg, #059669 19.19%, #10B981 80.81%);
+
+
+/* More services */
+
+position: absolute;
+width: 123px;
+height: 25px;
+left: 658px;
+top: 1563px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+
+/* 6168_adobespark 1 */
+
+position: absolute;
+visibility: hidden;
+width: 798px;
+height: 546px;
+left: 698px;
+top: 1672px;
+
+background: url(6168_adobespark);
